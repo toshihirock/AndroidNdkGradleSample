@@ -33,3 +33,5 @@ Of cource you can run `clean`(involve `ndk-build clean`)
   ./gradlew clean
   ```
 ## Detail
+
+[既にあるAndorid.mkを使ってNDKビルドをGradleで実行する](http://toshihirock.blogspot.jp/2014/12/andoridmkndkgradle.html)
