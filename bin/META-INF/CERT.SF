@@ -1,0 +1,55 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: ddpBaheI1GKEqLl4Y3ttSRWznqs=
+
+Name: lib/armeabi/gdbserver
+SHA1-Digest: BBQha7L8bKU/FgBzVH95JWb0/2k=
+
+Name: lib/arm64-v8a/libhello-jni.so
+SHA1-Digest: 2fHRlAhcSVPHu2tdi+xarN6zzpA=
+
+Name: lib/armeabi-v7a/gdbserver
+SHA1-Digest: Myc7ieEHPRyAv+XUVUrKhvsc948=
+
+Name: lib/x86/libhello-jni.so
+SHA1-Digest: MYILH305kK45zozO/I3InOeDmok=
+
+Name: resources.arsc
+SHA1-Digest: MvHRv1r6bs4BUGksaxlMJe7ayXY=
+
+Name: classes.dex
+SHA1-Digest: gpqa+As7Wuu5e0Xd0TjaIDFv2Kg=
+
+Name: lib/x86_64/gdbserver
+SHA1-Digest: z2aFr41ZQvzsQznaKPFhx/0RdrU=
+
+Name: lib/mips/gdbserver
+SHA1-Digest: 6RmKsptnShG3UxD9EmzpiuBkNHM=
+
+Name: lib/mips64/gdbserver
+SHA1-Digest: /Du/n85/h9sa+4yOKYBMqfdcUt8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: zO2D48t712NtCw4NmSlNwhUcIIc=
+
+Name: lib/arm64-v8a/gdbserver
+SHA1-Digest: RJH/212uxkNv5x80p7EaF3PK8A8=
+
+Name: lib/armeabi-v7a/libhello-jni.so
+SHA1-Digest: U48UwcYe9wIozs/RzTYgcg5pyE8=
+
+Name: lib/x86/gdbserver
+SHA1-Digest: gHNoA9fQ2s6N74RpA8d0mdxtDBE=
+
+Name: lib/mips/libhello-jni.so
+SHA1-Digest: jz1iIe8gFV9E5up1dt0niFzqTQE=
+
+Name: lib/armeabi/libhello-jni.so
+SHA1-Digest: LHoTVW8IOFk2MqJ7uz2vYRS/+jo=
+
+Name: lib/mips64/libhello-jni.so
+SHA1-Digest: bzjXqpkI3OQaHlQ1YlEOsHqb2d8=
+
+Name: lib/x86_64/libhello-jni.so
+SHA1-Digest: QXX3GkfyO093mFhtwUiO2K77lsU=
+
